@@ -126,4 +126,5 @@ This project is open-source and available under the MIT License.
 ## 🙌 Author
 Made with 💡 and 💻 by **PESALAVARI PALLAVI**
 
-## GitHub Link :https://github.com/Pallavipesalavari/PESALAVARI-PALLAVI-Etailed-First-Project.git
+## GitHub Link :
+### https://github.com/Pallavipesalavari/PESALAVARI-PALLAVI-Etailed-First-Project.git
