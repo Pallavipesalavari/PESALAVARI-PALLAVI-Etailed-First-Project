@@ -93,7 +93,7 @@ Smooth animations between onboarding steps for better UX
 ## 🛠 Getting Started
 ### 1. Clone the repository
 
-git clone https://github.com/your-username/onboarding-dashboard.git
+git clone https://github.com/Pallavipesalavari/PESALAVARI-PALLAVI-Etailed-First-Project.git
 cd onboarding-dashboard
 ### 2. Install dependencies
     npm install
@@ -124,6 +124,6 @@ cd onboarding-dashboard
 This project is open-source and available under the MIT License.
 
 ## 🙌 Author
-Made with 💡 and 💻 by **Pesalavari Pallavi**
+Made with 💡 and 💻 by **PESALAVARI PALLAVI**
 
-## GitHub Link :
+## GitHub Link :https://github.com/Pallavipesalavari/PESALAVARI-PALLAVI-Etailed-First-Project.git
